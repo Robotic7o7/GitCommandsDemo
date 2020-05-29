@@ -1,0 +1,26 @@
+.body {
+  height: 100%;
+  width: auto;
+  align-content: center;
+  background-color: #000;
+}
+
+.but1 {
+  height: 40px;
+  width: auto;
+  background-color: rgb(74, 74, 189);
+  font-size: 20px;
+  border-radius: 5px;
+  color: #fff;
+  text-align: center;
+  align-content: center;
+  margin: 0px 10px;
+}
+
+.whole .but {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  text-align: center;
+}
